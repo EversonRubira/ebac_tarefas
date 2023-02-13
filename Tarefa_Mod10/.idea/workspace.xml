@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="918c71da-7c61-49a9-b099-62be91f7562b" name="Changes" comment="Esse codigo recebe 4 notas, faz a media e lança uma string(resultado) no console.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LLa6ESfc0djDHrwPwCf16QPD7V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/workspace/Tarefas_Ebac/Tarefa_Mod10&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="918c71da-7c61-49a9-b099-62be91f7562b" name="Changes" comment="" />
+      <created>1675652643239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675652643239</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Esse codigo recebe 4 notas, faza mediadelas e joga uma string(resultado) no console.">
+      <created>1675681136508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675681136508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Esse codigo recebe 4 notas, faza mediadelas e joga uma string(resultado) no console.">
+      <created>1675689442955</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675689442955</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Esse codigo recebe 4 notas, faz a media e lança uma string(resultado) no console.">
+      <created>1675802658428</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675802658428</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Esse codigo recebe 4 notas, faz a media e lança uma string(resultado) no console.">
+      <created>1675976762674</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675976762674</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Esse codigo recebe 4 notas, faz a media e lança uma string(resultado) no console.">
+      <created>1676286430931</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676286430931</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Esse codigo recebe 4 notas, faz a media e lança uma string(resultado) no console.">
+      <created>1676286505158</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676286505158</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Esse codigo recebe 4 notas, faz a media e lança uma string(resultado) no console.">
+      <created>1676286521404</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676286521404</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Esse codigo recebe 4 notas, faz a media e lança uma string(resultado) no console.">
+      <created>1676286590869</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676286590869</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Esse codigo recebe 4 notas, faz a media e lança uma string(resultado) no console.">
+      <created>1676287583976</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676287583976</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Esse codigo recebe 4 notas, faz a media e lança uma string(resultado) no console.">
+      <created>1676287744475</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676287744475</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Esse codigo recebe 4 notas, faza mediadelas e joga uma string(resultado) no console." />
+    <MESSAGE value="Esse codigo recebe 4 notas, faz a media e lança uma string(resultado) no console." />
+    <option name="LAST_COMMIT_MESSAGE" value="Esse codigo recebe 4 notas, faz a media e lança uma string(resultado) no console." />
+  </component>
+</project>
