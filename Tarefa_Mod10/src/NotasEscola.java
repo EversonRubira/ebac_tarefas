@@ -6,6 +6,7 @@ public class NotasEscola {
 
         double nota1, nota2, nota3, nota4;
 
+
         System.out.println("Digite a primeira nota:  ");
         nota1 = scan.nextDouble();
 
