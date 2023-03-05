@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="918c71da-7c61-49a9-b099-62be91f7562b" name="Changes" comment="Esse codigo recebe 4 notas, faz a media e lança uma string(resultado) no console.">
       <change beforePath="$PROJECT_DIR$/../Ebac_bank/EbacBank" beforeDir="false" afterPath="$PROJECT_DIR$/../Ebac_bank/EbacBank" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/../Mod10/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mod10/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mod10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mod10/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mod10/out/production/Mod10/pt/com/mod10/Notas.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Mod10/out/production/Mod10/pt/com/mod10/Notas.class" afterDir="false" />
@@ -17,6 +18,13 @@
       <change beforePath="$PROJECT_DIR$/../Mod8/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mod8/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mod9/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mod9/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mod9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mod9/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/../test2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test2/test2.iml" beforeDir="false" />
+>>>>>>> 49a85d98f05288f8057bdc6bbddf70506f2cb00d
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
