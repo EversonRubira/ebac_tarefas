@@ -1,6 +1,7 @@
 package pt.com.mod13;
 
 public class PessoaFisica extends Pessoa{
+
     private String genero;
     private String cpf;
     private String profissao;
