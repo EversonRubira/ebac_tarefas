@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Carro {
+public abstract class Carro {
 
     private String marca;
     private String modelo;
@@ -37,21 +37,20 @@ public class Carro {
                 '}';
     }
 
+
     public static void main(String[] args) {
         List<Carro> carroList = new ArrayList<Carro>();
 
-            Carro carro1 = new Carro("Kia", "Sportage", 160);
-            Carro carro2 = new Carro("Ford", "Focus", 135);
-            Carro carro3 = new Carro("Mercedes", "I3", 85);
+        Carro carro1 = new Carro("Kia", "Sportage", 160);
+        Carro carro2 = new Carro("Ford", "Focus", 135);
+        Carro carro3 = new Carro("Mercedes", "I3", 85);
 
-            carroList.add(carro1);
-            carroList.add(carro2);
-            carroList.add(carro3);
+        carroList.add(carro1);
+        carroList.add(carro2);
+        carroList.add(carro3);
 
-            for (Carro carro : carroList) {
-                System.out.println(carro);
-            }
+        for (Carro carro : carroList) {
+            System.out.println(carro);
+        }
     }
-
-
 }
