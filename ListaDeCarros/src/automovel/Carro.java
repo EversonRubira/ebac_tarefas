@@ -1,3 +1,5 @@
+package automovel;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -10,6 +12,18 @@ public abstract class Carro {
     public Carro(String marca, String modelo, Integer potencia) {
         this.marca = marca;
         this.modelo = modelo;
+        this.potencia = potencia;
+    }
+
+    public void setMarca(String marca) {
+        this.marca = marca;
+    }
+
+    public void setModelo(String modelo) {
+        this.modelo = modelo;
+    }
+
+    public void setPotencia(Integer potencia) {
         this.potencia = potencia;
     }
 
@@ -30,7 +44,7 @@ public abstract class Carro {
 
     @Override
     public String toString() {
-        return "Carro{" +
+        return "automovel.Carro{" +
                 "marca='" + marca + '\'' +
                 ", modelo='" + modelo + '\'' +
                 ", potencia='" + potencia +
@@ -38,19 +52,5 @@ public abstract class Carro {
     }
 
 
-    public static void main(String[] args) {
-        List<Carro> carroList = new ArrayList<Carro>();
 
-        Carro carro1 = new Carro("Kia", "Sportage", 160);
-        Carro carro2 = new Carro("Ford", "Focus", 135);
-        Carro carro3 = new Carro("Mercedes", "I3", 85);
-
-        carroList.add(carro1);
-        carroList.add(carro2);
-        carroList.add(carro3);
-
-        for (Carro carro : carroList) {
-            System.out.println(carro);
-        }
-    }
 }
