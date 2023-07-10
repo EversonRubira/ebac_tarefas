@@ -5,3 +5,5 @@ U
 0src/pt/com/erubira/anotacao/FirstAnnotation.java,f\8\f8cfe6d81aeb8fe46c4dba88adef547ea340a084
 d
 4src/pt/com/erubira/anotacao/ClassWithAnnotation.java,6\b\6bcea4a1f2c3abbd8b411cef6f88bef5af7ff447
+_
+/src/pt/com/erubira/anotacao/TaskReflection.java,a\e\ae53f6e567a4ceb83864f6249d07c884f2ab53d0

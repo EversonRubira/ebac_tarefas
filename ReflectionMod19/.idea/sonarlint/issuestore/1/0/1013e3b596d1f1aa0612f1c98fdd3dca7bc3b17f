@@ -1,0 +1,18 @@
+
+g	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¼”óÆ‘1
+L
+java:S3740"/Provide the parametrized type for this generic.(®œØ8½”óÆ‘1
+K
+java:S3740"/Provide the parametrized type for this generic.(âàîK8½”óÆ‘1
+Q
+java:S3740"/Provide the parametrized type for this generic.(şîåøøÿÿÿÿ8¾”óÆ‘1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(´áîŞ8›ßóÆ‘1
+g
+java:S2133"ERemove this object instantiation and use "Colaborador.class" instead.(Çñ‚êıÿÿÿÿ8Ü”óÆ‘1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©–áüÿÿÿÿ8Ë¾ôÆ‘1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Š®üÿÿÿÿ8Ä¼‘Ç‘1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”íÄÆ8²ä‘Ç‘1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÎ¬Àÿÿÿÿÿ8ã£’Ç‘1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹ß€ïúÿÿÿÿ8ä£’Ç‘1
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ŒÎ¬Àÿÿÿÿÿ8éÑ’Ç‘1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(¹ß€ïúÿÿÿÿ8ë’Ç‘1
