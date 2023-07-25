@@ -1,0 +1,10 @@
+
+T
+java:S3958
+"2Refactor the code so this stream pipeline is used.(ûÔ¹ıÿÿÿÿ8ğúŠ»˜1
+\
+java:S1854
+":Remove this useless assignment to local variable "stream".(ûÔ¹ıÿÿÿÿ8ôúŠ»˜1
+M
+java:S1481
+"+Remove this unused "stream" local variable.(ûÔ¹ıÿÿÿÿ8şúŠ»˜1

@@ -1,0 +1,10 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΪΕ²’όÿÿÿÿ8¤ϋέπ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ή¦…‡ϊÿÿÿÿ8­ϋέπ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ν‹±8®ϋέπ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ο¥‘‡όÿÿÿÿ8―ϋέπ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ν‹±8―ϋέπ1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(ΣσΊ΄ϊÿÿÿÿ8―ϋέπ1
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(σχ”8―ϋέπ1

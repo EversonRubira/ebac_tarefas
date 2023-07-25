@@ -1,0 +1,9 @@
+
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(íîõşÿÿÿÿ8ğƒÕÁ˜1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ší‹±8ñƒÕÁ˜1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²ìí½8òƒÕÁ˜1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ší‹±8óƒÕÁ˜1
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(÷•–Ìşÿÿÿÿ8×•×Á˜1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷•–Ìşÿÿÿÿ8ÇßÛÁ˜1
