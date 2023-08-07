@@ -7,7 +7,7 @@ public class Genero {
     private String id;
     private String nome;
     private String genero;
-    private int idade;
+    private  int idade;
 
     public Genero() {
 
