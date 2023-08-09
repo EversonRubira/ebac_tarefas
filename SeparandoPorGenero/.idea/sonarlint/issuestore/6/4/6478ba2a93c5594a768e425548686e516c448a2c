@@ -1,0 +1,36 @@
+
+{
+java:S1192;"YDefine a constant instead of duplicating this literal "************************" 3 times.(Åêµúÿÿÿÿ8§á‹ß1
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8Ç÷²İ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8İ÷²İ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(õÿ¯8â÷²İ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñô½…ıÿÿÿÿ8ä÷²İ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÑƒûÿÿÿÿ8ä÷²İ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§±€®8æ÷²İ1
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ª£Àƒûÿÿÿÿ8æ÷²İ1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(§–êÚ8ç÷²İ1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(¹ß€ïúÿÿÿÿ8è÷²İ1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(™®¿ƒøÿÿÿÿ8è÷²İ1
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(¹ß€ïúÿÿÿÿ8é÷²İ1
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(íÚØ¶ùÿÿÿÿ8é÷²İ1
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(¹ß€ïúÿÿÿÿ8ê÷²İ1
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(Åêµúÿÿÿÿ8ì÷²İ1
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(ŠÑÂ»8í÷²İ1
+b
+java:S1612?"@Replace this lambda with method reference 'System.out::println'.(è¥Çµüÿÿÿÿ8ì÷²İ1
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(è¥Çµüÿÿÿÿ8î÷²İ1
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(ìÉóş8ï÷²İ1
+b
+java:S1612B"@Replace this lambda with method reference 'System.out::println'.(­ß¯ïùÿÿÿÿ8î÷²İ1
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(­ß¯ïùÿÿÿÿ8ï÷²İ1
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(µÅç¤şÿÿÿÿ8ğ÷²İ1
+]
+java:S1612E"@Replace this lambda with method reference 'System.out::println'.(¦¢î8ğ÷²İ1
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(¦¢î8Œ†´İ1
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(Åêµúÿÿÿÿ8ëÚ´İ1
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(ŠÑÂ»8‹”æŞ1
+b
+java:S1612L"@Replace this lambda with method reference 'System.out::println'.(è¥Çµüÿÿÿÿ8Œ”æŞ1
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(è¥Çµüÿÿÿÿ8Œ”æŞ1
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(Åêµúÿÿÿÿ8 áêŞ1
