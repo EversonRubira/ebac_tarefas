@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Mod22SeparandoPorGenero {
+public class SeparandoPorGeneroMod22Lambdas {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -32,10 +32,10 @@ public class Mod22SeparandoPorGenero {
             }
 
             System.out.println("Deseja adicionar mais algum nome na lista? (Sim/Nao)");
-                String resposta = scanner.nextLine();
+            String resposta = scanner.nextLine();
 
-               if (!resposta.equalsIgnoreCase("Sim")) {
-                   break;  }
+            if (!resposta.equalsIgnoreCase("Sim")) {
+                break;  }
 
             System.out.println("Nomes de pessoas Nao Binario:");
             for (String nome : nomesNaoBinario) {
