@@ -1,0 +1,9 @@
+
+{
+java:S1192\"YDefine a constant instead of duplicating this literal "************************" 3 times.(Åêµúÿÿÿÿ8áËÈß1
+z	java:S135C"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8×“à1
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(õÿ¯8üËÈß1
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(ñô½…ıÿÿÿÿ8ıËÈß1
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(½‰Ôøÿÿÿÿ8ıËÈß1
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(ª£Àƒûÿÿÿÿ8ıËÈß1
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(Åêµúÿÿÿÿ8ÌÈß1
