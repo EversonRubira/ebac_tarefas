@@ -1,6 +1,8 @@
 
 package pt.com.rubira;
 import org.junit.Test;
+
+import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 public class SeparandoPorGeneroMod22LambdasTest {
@@ -18,6 +20,7 @@ public class SeparandoPorGeneroMod22LambdasTest {
 
         assertTrue(separandoPorGenero.getNomesFemininos().contains("Claudia Teixeira"));
         assertTrue(separandoPorGenero.getNomesFemininos().contains("Reni Farias"));
+        assertFalse(separandoPorGenero.getNomesFemininos().contains("Maria Paula"));
 
     }
 }
