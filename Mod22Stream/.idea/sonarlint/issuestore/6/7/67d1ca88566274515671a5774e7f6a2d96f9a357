@@ -1,0 +1,26 @@
+
+d
+java:S1192"GDefine a constant instead of duplicating this literal "Rubira" 3 times.(µÒø©8¬şŸ¹˜1
+e
+java:S1192"HDefine a constant instead of duplicating this literal "Everson" 3 times.(µÒø©8­şŸ¹˜1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³£‚¹ÿÿÿÿÿ8­şŸ¹˜1
+_
+java:S1854"=Remove this useless assignment to local variable "StreamSTS".(³£‚¹ÿÿÿÿÿ8ÃşŸ¹˜1
+]
+java:S1854";Remove this useless assignment to local variable "valores".(Ş¡ì¿ÿÿÿÿÿ8ÃşŸ¹˜1
+W
+java:S1854":Remove this useless assignment to local variable "chaves".(Åáş¢8ÃşŸ¹˜1
+T
+java:S1854"7Remove this useless assignment to local variable "set".(‡À‚8ÄşŸ¹˜1
+W
+java:S1854":Remove this useless assignment to local variable "stream".(µÒø©8ÄşŸ¹˜1
+H
+java:S1481"+Remove this unused "stream" local variable.(µÒø©8ÆşŸ¹˜1
+E
+java:S1481"(Remove this unused "set" local variable.(‡À‚8ÈşŸ¹˜1
+H
+java:S1481"+Remove this unused "chaves" local variable.(Åáş¢8ÊşŸ¹˜1
+N
+java:S1481",Remove this unused "valores" local variable.(Ş¡ì¿ÿÿÿÿÿ8ÌşŸ¹˜1
+P
+java:S1481".Remove this unused "StreamSTS" local variable.(³£‚¹ÿÿÿÿÿ8ÍşŸ¹˜1

@@ -1,0 +1,9 @@
+
+T
+java:S3958"2Refactor the code so this stream pipeline is used.(ˆ†é‘ûÿÿÿÿ8ÒçÓ¼˜1
+\
+java:S1854":Remove this useless assignment to local variable "stream".(ˆ†é‘ûÿÿÿÿ8·¾Ð¼˜1
+M
+java:S1481"+Remove this unused "stream" local variable.(ˆ†é‘ûÿÿÿÿ8º¾Ð¼˜1
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8ØçÓ¼˜1
